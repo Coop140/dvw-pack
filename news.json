@@ -1,3 +1,8 @@
 [
-  { "title": "Announcement test", "date": "", "body": "Announcement test", "important": false }
+  {
+    "title": "Welcome to the new DVW.",
+    "date": "Oct 23, 2026",
+    "body": "We’ve been working hard behind the scenes, and we’re excited to roll out a number of new features and updated requirements for all members.",
+    "important": true
+  }
 ]
